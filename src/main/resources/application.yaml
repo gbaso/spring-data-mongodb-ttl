@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-data-mongodb-ttl-spel
+
+ttl: 7d
